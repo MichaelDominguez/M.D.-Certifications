@@ -1,4 +1,4 @@
-# M.D. Certifications
+# Michael Dominguez Certifications
 
 This repository showcases my professional certifications and continued development across cybersecurity, cloud platforms, infrastructure, and technical systems. The certificates are organized into two focused categories so recruiters and hiring managers can review the training most relevant to technical and security-focused roles.
 
